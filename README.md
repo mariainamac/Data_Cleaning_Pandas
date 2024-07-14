@@ -18,7 +18,7 @@ Methods Used:
 - Data observation on formatting and standardization
 - Removed Duplicated Rows
 - Removed unnecessary columns based on stakeholders' requirement
-- Clean and standardize each column by removing unwanted characters/ensuring consistent formatting
+- Clean and standardize each column by removing unwanted characters/adding characters, ensuring consistent formatting
 - Removing NA / NaN on specific column(s)
 - Creating new columns to spread out the information (eg. from the Address column (Address 1, Address 2, Zip Code))
 - Replacing words to maintain consistency (eg. "Yes" to 'Y' etc.)
