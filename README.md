@@ -12,6 +12,7 @@ Skills Used:
 - Python
 - Pandas
 - Jupyter Notebook
+- ChatGPT
 
 
 Methods Used:
